@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **krishan97mohan@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/flpOT](https://shorturl.at/flpOT)
-
 - ⚡ Fun fact **I am always curious about new technology.**
 
 <h3 align="left">Connect with me:</h3>
