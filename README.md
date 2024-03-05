@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanmohandev&label=Profile%20views&color=0e75b6&style=flat" alt="krishanmohandev" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data, etc.**
+- 🌱 I’m currently learning **Machine Learning, Data Science, etc.**
 
 - 👯 I’m collaborating on [Steller-Web](https://github.com/KrishanMohanDev/steller-web)
 
