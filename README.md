@@ -6,7 +6,7 @@
 <p align="left">My name is Krishan Mohan Mandal and I'm a Data Scientist, from Delhi</p> 
 
 # 💫 About Me:
-🔭 I’m currently working on a machine learning and data science project.<br>👯 I’m collaborating on Steller-Web.<br>👨‍💻 All of my projects are available at https://github.com/KrishanMohanDev<br>🌱 I’m currently learning Python, Machine Learning, Data Science, etc.<br>💬 Ask me about Data Science<br>📫 How to reach me krishan03mohan@gmail.com<br>⚡ Fun fact I am always curious about new technology.
+🔭 I’m currently working on a machine learning and data science project.<br>👨‍💻 All of my projects are available at https://github.com/KrishanMohanDev<br>🌱 I’m currently learning Python, Machine Learning, Data Science, etc.<br>💬 Ask me about Data Science<br>📫 How to reach me krishan03mohan@gmail.com<br>⚡ Fun fact I am always curious about new technology.
 
 ###
 
